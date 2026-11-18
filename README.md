@@ -1,2 +1,11 @@
-# Github-Practical-Test
-midsem
+NAME:PIYUSH KUMAR
+<br>
+ID:4349533
+<br>
+URN:E26B03S3112
+<br>
+YEAR:2nd Year
+<br>
+SEMESTER:3rd sem
+<br>
+SUBJECT:Git & Github
